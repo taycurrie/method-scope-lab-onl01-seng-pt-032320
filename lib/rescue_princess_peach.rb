@@ -1,5 +1,3 @@
-# rescue_princess_peach
-# puts status
 "Hooray! Mario has rescued Princess Peach."
 end
 
